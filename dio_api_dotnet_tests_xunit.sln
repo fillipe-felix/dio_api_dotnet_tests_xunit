@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dio_api_dotnet_tests_xunit", "dio_api_dotnet_tests_xunit\dio_api_dotnet_tests_xunit.csproj", "{FDA68164-1659-4B3A-BA99-5D1B80C4FE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dio_primeira_api_dotnet", "..\dio_primeira_api_dotnet\dio_primeira_api_dotnet\dio_primeira_api_dotnet.csproj", "{1E5BEEF7-BDA2-46CA-A00D-37A5BE1AAAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA68164-1659-4B3A-BA99-5D1B80C4FE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA68164-1659-4B3A-BA99-5D1B80C4FE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA68164-1659-4B3A-BA99-5D1B80C4FE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA68164-1659-4B3A-BA99-5D1B80C4FE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5BEEF7-BDA2-46CA-A00D-37A5BE1AAAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5BEEF7-BDA2-46CA-A00D-37A5BE1AAAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5BEEF7-BDA2-46CA-A00D-37A5BE1AAAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5BEEF7-BDA2-46CA-A00D-37A5BE1AAAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
